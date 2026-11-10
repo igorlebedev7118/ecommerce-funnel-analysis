@@ -30,5 +30,5 @@ The SQL queries used for data preparation and analysis are available in [this fi
 
 ## Interactive Dashboard
 
-[View the interactive Tableau dashboard](PASTE_TABLEAU_PUBLIC_URL_HERE)
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/igor.liebiediev/viz/LiebiedievProjectfinal/FinalDashboard)
 
